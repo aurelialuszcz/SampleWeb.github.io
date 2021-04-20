@@ -9,8 +9,7 @@
 body,h1,h5 {font-family: "Raleway", sans-serif}
 body, html {height: 100%}
 .bgimg {
-  background-image: url(![restaurant](https://user-images.githubusercontent.com/78824163/115381017-118fc580-a1cb-11eb-8217-612bbcf6d34e.jpg)
-restaurant.jpg);
+  background-image: url(restaurant.jpeg);
   min-height: 100%;
   background-position: center;
   background-size: cover;
